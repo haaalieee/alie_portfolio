@@ -33954,7 +33954,7 @@ var Portfolio = function Portfolio() {
                             _react2.default.createElement(
                                 _semanticUiReact.Reveal.Content,
                                 { hidden: true },
-                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/star.jpg', size: 'large' })
+                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/star.png', size: 'large' })
                             )
                         ),
                         header: 'Starlight Studio Website',
@@ -34026,7 +34026,7 @@ var Portfolio = function Portfolio() {
                             _react2.default.createElement(
                                 _semanticUiReact.Reveal.Content,
                                 { hidden: true },
-                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/gates.jpg', size: 'large' })
+                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/gates.png', size: 'large' })
                             )
                         ),
                         header: 'Books of Gates',
@@ -34066,7 +34066,7 @@ var Portfolio = function Portfolio() {
                             _react2.default.createElement(
                                 _semanticUiReact.Reveal.Content,
                                 { hidden: true },
-                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/cores.jpg', size: 'large' })
+                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/cores.png', size: 'large' })
                             )
                         ),
                         header: 'CoRES 2016',
@@ -34102,7 +34102,7 @@ var Portfolio = function Portfolio() {
                             _react2.default.createElement(
                                 _semanticUiReact.Reveal.Content,
                                 { hidden: true },
-                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/gates2.jpg', size: 'large' })
+                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/gates2.png', size: 'large' })
                             )
                         ),
                         header: 'Books of Gates 2.0',
@@ -34138,7 +34138,7 @@ var Portfolio = function Portfolio() {
                             _react2.default.createElement(
                                 _semanticUiReact.Reveal.Content,
                                 { hidden: true },
-                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/todo.jpg', size: 'large' })
+                                _react2.default.createElement(_semanticUiReact.Image, { src: '/images/todo.png', size: 'large' })
                             )
                         ),
                         header: 'To Do App',

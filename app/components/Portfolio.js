@@ -20,7 +20,7 @@ const Portfolio = () => (
                             <Image src='/images/1.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/star.jpg' size='large' />
+                            <Image src='/images/star.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Starlight Studio Website'
@@ -64,7 +64,7 @@ const Portfolio = () => (
                             <Image src='/images/3.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/gates.jpg' size='large' />
+                            <Image src='/images/gates.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Books of Gates'
@@ -88,7 +88,7 @@ const Portfolio = () => (
                             <Image src='/images/4.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/cores.jpg' size='large' />
+                            <Image src='/images/cores.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='CoRES 2016'
@@ -110,7 +110,7 @@ const Portfolio = () => (
                             <Image src='/images/5.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/gates2.jpg' size='large' />
+                            <Image src='/images/gates2.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Books of Gates 2.0'
@@ -132,7 +132,7 @@ const Portfolio = () => (
                             <Image src='/images/6.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/todo.jpg' size='large' />
+                            <Image src='/images/todo.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='To Do App'
