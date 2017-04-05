@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Timeline = () => {
+    console.log(" ");
     return (
     <div>
         <section id="cd-timeline" className="cd-container">
