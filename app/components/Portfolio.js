@@ -42,7 +42,7 @@ const Portfolio = () => (
                             <Image src='/images/2.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='/images/bulletin.jpg' size='large' />
+                            <Image src='/images/bulletin.png' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='CpE Bulletin'
