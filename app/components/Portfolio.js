@@ -17,10 +17,10 @@ const Portfolio = () => (
                     image={ 
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/1.png' size='large' />
+                            <Image src='/images/1.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/star.jpg' size='large' />
+                            <Image src='/images/star.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Starlight Studio Website'
@@ -39,10 +39,10 @@ const Portfolio = () => (
                     image={
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/2.png' size='large' />
+                            <Image src='/images/2.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/bulletin.jpg' size='large' />
+                            <Image src='/images/bulletin.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='CpE Bulletin'
@@ -61,10 +61,10 @@ const Portfolio = () => (
                     image={
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/3.png' size='large' />
+                            <Image src='/images/3.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/gates.jpg' size='large' />
+                            <Image src='/images/gates.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Books of Gates'
@@ -85,10 +85,10 @@ const Portfolio = () => (
                     image={ 
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/4.png' size='large' />
+                            <Image src='/images/4.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/cores.jpg' size='large' />
+                            <Image src='/images/cores.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='CoRES 2016'
@@ -107,10 +107,10 @@ const Portfolio = () => (
                     image={
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/5.png' size='large' />
+                            <Image src='/images/5.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/gates2.jpg' size='large' />
+                            <Image src='/images/gates2.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='Books of Gates 2.0'
@@ -129,10 +129,10 @@ const Portfolio = () => (
                     image={
                         <Reveal animated='move up'>
                             <Reveal.Content visible>
-                            <Image src='./images/6.png' size='large' />
+                            <Image src='/images/6.png' size='large' />
                             </Reveal.Content>
                             <Reveal.Content hidden>
-                            <Image src='./images/todo.jpg' size='large' />
+                            <Image src='/images/todo.jpg' size='large' />
                             </Reveal.Content>
                         </Reveal>}
                     header='To Do App'
